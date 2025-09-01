@@ -27,7 +27,6 @@ To capture RAM data and create a forensic disk image using FTK Imager.
 ## Part A — Acquiring Volatile Memory (RAM) Using FTK Imager
 
 *Step-1:* Right click on the FTK Imager tool and select *Run as administrator*.  
-![(images/exp1-ram-step1.png)](https://github.com/varunsanjeevula/Digital-Forensics-/blob/4897e9cbbac5782fc9e717060a85baecf419a752/images/WhatsApp%20Image%202025-09-01%20at%2018.39.11_75cb9f87.jpg)
 
 *Step-2:* On the top menu bar, click *File* and select *Capture Memory* from the drop-down list.  
 ![(images/exp1-ram-step2.png)](https://github.com/varunsanjeevula/Digital-Forensics-/blob/4897e9cbbac5782fc9e717060a85baecf419a752/images/Screenshot%202025-09-01%20175852.png)
