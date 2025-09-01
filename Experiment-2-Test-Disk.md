@@ -42,19 +42,19 @@ To recover lost partitions and deleted files using TestDisk.
 ![(images/exp2-step5.png)](https://github.com/varunsanjeevula/Digital-Forensics-/blob/59dab9ab9fb7db719139bd1aefc658aa293b2dd3/images/WhatsApp%20Image%202025-09-01%20at%2022.35.46_6cc284a4.jpg)
 
 *Step-6:* TestDisk scans the disk and lists lost partitions.  
-![Step 6](images/exp2-step6.png)
+![(images/exp2-step6.png)](https://github.com/varunsanjeevula/Digital-Forensics-/blob/59dab9ab9fb7db719139bd1aefc658aa293b2dd3/images/WhatsApp%20Image%202025-09-01%20at%2022.35.47_8f00d469.jpg)
 
 *Step-7:* Press *P* to view the list of files and *C* to copy the files.  
-![Step 7](images/exp2-step7.png)
+![(images/exp2-step7.png)](https://github.com/varunsanjeevula/Digital-Forensics-/blob/59dab9ab9fb7db719139bd1aefc658aa293b2dd3/images/WhatsApp%20Image%202025-09-01%20at%2022.35.49_fe8ee3ae.jpg)
 
 *Step-8:* If Quick Search does not find your partition/files, select *Deeper Search* and press *Enter*. This takes longer but finds more recoverable partitions.  
-![Step 8](images/exp2-step8.png)
+![(images/exp2-step8.png)](https://github.com/varunsanjeevula/Digital-Forensics-/blob/59dab9ab9fb7db719139bd1aefc658aa293b2dd3/images/WhatsApp%20Image%202025-09-01%20at%2022.35.51_606456f3.jpg)
 
 *Step-9:* Once you are confident the partition is correct, select *Write* and press *Enter*.  
-![Step 9](images/exp2-step9.png)
+![(images/exp2-step9.png)](https://github.com/varunsanjeevula/Digital-Forensics-/blob/59dab9ab9fb7db719139bd1aefc658aa293b2dd3/images/WhatsApp%20Image%202025-09-01%20at%2022.35.53_02430f56.jpg)
 
 *Step-10:* Confirm the operation by pressing *Y*. This will write the partition table to your disk.  
-![Step 10](images/exp2-step10.png)
+![(images/exp2-step10.png)](https://github.com/varunsanjeevula/Digital-Forensics-/blob/59dab9ab9fb7db719139bd1aefc658aa293b2dd3/images/WhatsApp%20Image%202025-09-01%20at%2022.35.53_7c8e0ca5.jpg)
 
 - Once recovery is complete, exit TestDisk by selecting *Quit*.  
 - Verify recovered files in the destination folder.  
