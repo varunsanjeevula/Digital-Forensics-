@@ -24,7 +24,7 @@
     * Go to **Settings > About Phone** and tap **Build Number seven times** to enable Developer Options.
     * Go to **Settings > Developer Options** and enable **USB Debugging**.
 
-![images/exp1-disk-step1.png](https://github.com/baddiputi/Digital-Forensic-Lab-Exercises/blob/de2d7c56c138c87d4745d2dbaf512dc4e2beaedc/images/7.1.png)
+![images/exp1-disk-step1.png](https://github.com/varunsanjeevula/Digital-Forensics-/blob/7cc9f636567562e23b89774dfd76497a436cfbaa/images/Screenshot%202025-10-25%20001538.png)
 
 ![images/exp1-disk-step1.png](https://github.com/baddiputi/Digital-Forensic-Lab-Exercises/blob/de2d7c56c138c87d4745d2dbaf512dc4e2beaedc/images/7.3.png)
 ---
